@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NTSTET [nothing something everything]
+- 👋 Hi, I’m @NTSTET [EveryThing is better than SomeThing is better than NoThing]
 - 👀 I’m interested in [yet to find];
 - 🌱 I’m currently learning [everything];
 - 💞️ I’m looking to collaborate on [nothing];
