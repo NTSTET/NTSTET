@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NTSTET [EveryThing is better than SomeThing is better than NoThing]
-- 👀 I’m interested in [yet to find];
-- 🌱 I’m currently learning [everything];
-- 💞️ I’m looking to collaborate on [nothing];
-- 📫 How to reach me [stay away]
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning something unknown to me.
+- 💞️ I’m looking to collaborate on web projects specially MERN stack based.
+- 📫 Mail me for any kind of help: skrajprof1947@gmail.com
 
 <!---
 NTSTET/NTSTET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
